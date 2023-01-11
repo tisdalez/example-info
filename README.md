@@ -4,4 +4,5 @@ a tiny example
 
 A LARGE EXAMPLE
 
+凄いだね。
 
